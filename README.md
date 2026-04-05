@@ -54,8 +54,11 @@ Here are some ideas to get you started:
 ### 🛠️ Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-</p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 ---
 
 ## 📈 Activity Graph
