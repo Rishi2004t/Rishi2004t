@@ -21,5 +21,18 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MongoDB+Learner;DSA+Practitioner;Building+Real+Projects" />
 </p>
+
+---
+
+## 🧠 About Me
+
+- 💻 I’m currently learning **Full Stack Development & MongoDB**
+- 📚 Practicing **Data Structures & Algorithms (Java / C++)**
+- 🚀 Building real-world projects to improve my skills
+- 🎯 Goal: Become a professional developer and crack top tech opportunities
+- ⚡ Fun fact: I love solving problems and exploring new technologies
+
+---
+
 ## 📈 Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night)
