@@ -89,3 +89,13 @@ Here are some ideas to get you started:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night" />
 </p>
 ---
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Rishi2004t/Rishi2004t/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
