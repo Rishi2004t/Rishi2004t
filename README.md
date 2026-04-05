@@ -99,3 +99,25 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+---
+
+## 💼 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Rishi2004t/YOUR_PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Rishi2004t/YOUR_PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Rishi2004t/YOUR_PROJECT_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
