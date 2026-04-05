@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MongoDB+Learner;DSA+Practitioner;Building+Real+Projects" />
+</p>
 ## 📈 Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night)
