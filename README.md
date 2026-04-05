@@ -33,6 +33,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love solving problems and exploring new technologies
 
 ---
+---
+
+## 🚀 Tech Arsenal
+
+<p align="center">
+
+### 🌐 Frontend Universe
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+### ⚙️ Backend Engine
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Database Realm
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### 🧠 Programming Core
+<img src="https://skillicons.dev/icons?i=java,cpp" />
+
+### 🛠️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
 
 ## 📈 Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night)
