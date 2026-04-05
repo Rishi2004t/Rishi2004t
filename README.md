@@ -61,5 +61,32 @@ Here are some ideas to get you started:
 </p>
 ---
 
-## 📈 Activity Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night)
+---
+
+## 📊 Dev Activity Dashboard
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rishi2004t&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2004t&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph (Live Activity)
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00F7FF&point=FFFFFF" />
+</p>
+
+---
+
+## 🧊 3D Contribution Visualizer
+
+<p align="center">
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=Rishi2004t&theme=night" />
+</p>
+
+---
