@@ -86,7 +86,6 @@ Here are some ideas to get you started:
 ## 🧊 3D Contribution Visualizer
 
 <p align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=Rishi2004t&theme=night" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Rishi2004t&theme=dark" />
 </p>
-
 ---
