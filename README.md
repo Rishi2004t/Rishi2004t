@@ -83,9 +83,9 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧊 3D Contribution Visualizer
+## 📊 Alternative Graph
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Rishi2004t&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night" />
 </p>
 ---
