@@ -139,7 +139,51 @@ Here are some ideas to get you started:
 - 🥇 Active Developer  
 - 📈 Consistent Contributor  
 - 🚀 Project Builder  
-- 💻 Full Stack Learner  
+- 💻 Full Stack Learner
+- ---
+
+---
+
+## 🚧 Currently Working On
+
+- 🔭 Building **Full Stack Projects**
+- 🌱 Learning **MongoDB & Backend Development**
+- 🧠 Improving **DSA Skills (Java/C++)**
+- 🚀 Exploring **DevOps & Cloud**
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi2004t&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi2004t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+## 💡 Fun Zone
+
+> ⚡ "Code. Debug. Repeat. Success is near."
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+----
+
+<h3 align="center">💻 Building • 🚀 Learning • 🧠 Growing</h3>
 
 
 
