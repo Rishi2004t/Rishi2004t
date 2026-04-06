@@ -163,7 +163,7 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi2004t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=30" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishi2004t&show_icons=true&theme=tokyonight" />
 </p>
 ---
 ## 💡 Fun Zone
