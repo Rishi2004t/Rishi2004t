@@ -137,7 +137,5 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishi2004t&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishi2004t&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
-
----
