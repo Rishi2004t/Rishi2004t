@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love solving problems and exploring new technologies
 
 ---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+</p>
 ---
 
 ## 🚀 Tech Arsenal
