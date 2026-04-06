@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h1 align="center">Hi 👋, I'm Rishi Dhanaji Dange</h1>
 <h3 align="center">🚀 Full Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
@@ -206,6 +206,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-Learner-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
 </p>
+----
+### 🚀 Portfolio Website  
+> 💡 A responsive personal portfolio  
+> 🛠️ HTML • CSS • JS  
+> 🔗 [View Project](#)
+---
 
 
 
