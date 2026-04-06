@@ -104,20 +104,7 @@ Here are some ideas to get you started:
 
 ## 💼 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/Rishi2004t/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=portfolio-website&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Rishi2004t/ai-diet-planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=ai-diet-planner&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Rishi2004t/dsa-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=dsa-tracker&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
+- 🚀 [Portfolio Website](https://github.com/Rishi2004t/portfolio-website)
+- 🧠 [AI Diet Planner](https://github.com/Rishi2004t/ai-diet-planner)
+- 📊 [DSA Tracker](https://github.com/Rishi2004t/dsa-tracker)
 ---
