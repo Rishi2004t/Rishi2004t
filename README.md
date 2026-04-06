@@ -106,16 +106,16 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://github.com/Rishi2004t/YOUR_PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rishi2004t/portfolio-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=portfolio-website&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Rishi2004t/YOUR_PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rishi2004t/ai-diet-planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=ai-diet-planner&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Rishi2004t/YOUR_PROJECT_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rishi2004t/dsa-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi2004t&repo=dsa-tracker&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
