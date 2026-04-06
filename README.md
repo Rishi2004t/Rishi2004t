@@ -102,9 +102,27 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
 ## 💼 Featured Projects
 
-- 🚀 [Portfolio Website](https://github.com/Rishi2004t/portfolio-website)
-- 🧠 [AI Diet Planner](https://github.com/Rishi2004t/ai-diet-planner)
-- 📊 [DSA Tracker](https://github.com/Rishi2004t/dsa-tracker)
+### 🚀 Portfolio Website  
+🔹 A responsive personal portfolio showcasing my projects and skills  
+🔧 Tech: HTML, CSS, JavaScript  
+🔗 [View Project](https://github.com/Rishi2004t/portfolio-website)
+
+---
+
+### 🧠 AI Diet Planner  
+🔹 AI-based system that generates personalized diet plans  
+🔧 Tech: Node.js, MongoDB, API  
+🔗 [View Project](https://github.com/Rishi2004t/ai-diet-planner)
+
+---
+
+### 📊 DSA Tracker  
+🔹 Track coding progress and solved problems efficiently  
+🔧 Tech: Java, Data Structures  
+🔗 [View Project](https://github.com/Rishi2004t/dsa-tracker)
+
 ---
