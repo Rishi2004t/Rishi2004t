@@ -183,15 +183,12 @@ Here are some ideas to get you started:
 </p>
 ----
 
-## 🌊 Contribution Wave
+## 🐱 Coding Mode
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 </p>
-
 ---
-
-<h3 align="center">💻 Building • 🚀 Learning • 🧠 Growing</h3>
 
 
 
