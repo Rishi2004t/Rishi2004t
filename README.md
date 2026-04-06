@@ -120,6 +120,8 @@ Here are some ideas to get you started:
 🛠️ Tech Stack: Node.js, MongoDB, API  
 🔗 [View Project](https://github.com/Rishi2004t/ai-diet-planner)
 
+🔹 Built a responsive personal portfolio to showcase projects and skills
+
 ---
 
 ### 📊 DSA Tracker  
