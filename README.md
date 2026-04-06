@@ -104,13 +104,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/Rishi2004t/Rishi2004t/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header" />
+</p>
 
----
+## 🚗 Code & Drive
 
----
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+</p>
 
 ## 💼 Featured Projects
 
@@ -207,11 +209,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
 </p>
 ----
-### 🚀 Portfolio Website  
-> 💡 A responsive personal portfolio  
-> 🛠️ HTML • CSS • JS  
-> 🔗 [View Project](#)
----
 
 
 
