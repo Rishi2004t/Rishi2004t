@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi2004t&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishi2004t&layout=compact&theme=tokyonight&cache_seconds=10" />
 </p>
 
 
