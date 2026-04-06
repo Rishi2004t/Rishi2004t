@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rishi%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+---
 <!--
 **Rishi2004t/Rishi2004t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
