@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 ---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
-</p>
 ---
 
 ## 🚀 Tech Arsenal
@@ -204,6 +201,11 @@ Here are some ideas to get you started:
 🚀 Mode: Building Projects  
 </p>
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-Learner-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
+</p>
 
 
 
