@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".55" stop-color="#09152b"/><stop offset="1" stop-color="#180b2f"/></linearGradient>
+<linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+<style>.m{font-family:Consolas,'Courier New',monospace}.s{font-family:Arial,sans-serif}.f{animation:f 1s ease both}@keyframes f{from{opacity:0}to{opacity:1}}.p{animation:p 2.2s ease-in-out infinite}@keyframes p{50%{opacity:.4}}</style>
+</defs>
+<rect x="2" y="2" width="1196" height="386" rx="26" fill="url(#bg)" stroke="url(#a)" stroke-width="2"/>
+<circle cx="90" cy="340" r="190" fill="#0891b2" opacity=".08"/><circle cx="1100" cy="50" r="210" fill="#7c3aed" opacity=".1"/>
+<g transform="translate(55 52)">
+<text class="m f" fill="#67e8f9" font-size="17">&gt; whoami</text>
+<text class="s f" x="0" y="58" fill="#f1f5f9" font-size="36" font-weight="800">RISHI DANGE</text>
+<text class="m f" x="2" y="88" fill="#c084fc" font-size="14">@Rishi2004t</text>
+<text class="s" y="140" fill="#e2e8f0" font-size="17" font-weight="700">Full Stack Developer</text>
+<text class="s" y="170" fill="#e2e8f0" font-size="17" font-weight="700">Machine Learning Engineer</text>
+<text class="s" y="200" fill="#e2e8f0" font-size="17" font-weight="700">GenAI Developer</text>
+<text class="m" y="248" fill="#94a3b8" font-size="13">Building intelligent systems &amp; scalable</text>
+<text class="m" y="270" fill="#94a3b8" font-size="13">web experiences through code and curiosity.</text>
+<text class="m" y="315" fill="#67e8f9" font-size="13">$ code • learn • build • repeat</text>
+</g>
+<line x1="590" y1="62" x2="590" y2="330" stroke="#334155" stroke-dasharray="6 9"/>
+<g transform="translate(650 58)">
+<text class="s" fill="#f1f5f9" font-size="18" font-weight="700">CURRENT FOCUS</text>
+<g transform="translate(0 43)"><rect width="450" height="48" rx="13" fill="#0b1730" stroke="#164e63"/><circle cx="25" cy="24" r="6" fill="#22d3ee" class="p"/><text class="m" x="45" y="29" fill="#dbeafe" font-size="13">Full Stack Development</text></g>
+<g transform="translate(0 103)"><rect width="450" height="48" rx="13" fill="#0b1730" stroke="#3730a3"/><circle cx="25" cy="24" r="6" fill="#818cf8" class="p"/><text class="m" x="45" y="29" fill="#dbeafe" font-size="13">Machine Learning &amp; AI</text></g>
+<g transform="translate(0 163)"><rect width="450" height="48" rx="13" fill="#0b1730" stroke="#7e22ce"/><circle cx="25" cy="24" r="6" fill="#c084fc" class="p"/><text class="m" x="45" y="29" fill="#dbeafe" font-size="13">GenAI • LangChain • Intelligent Apps</text></g>
+<g transform="translate(0 235)"><text class="m" fill="#64748b" font-size="11">STATUS</text><rect y="13" width="450" height="47" rx="13" fill="#081626" stroke="#166534"/><circle cx="25" cy="36" r="6" fill="#34d399" class="p"/><text class="m" x="45" y="41" fill="#34d399" font-size="13">BUILDING • LEARNING • OPEN TO COLLABORATE</text></g>
+</g>
+</svg>
