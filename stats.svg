@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="270" viewBox="0 0 650 270">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset="1" stop-color="#160b2d"/></linearGradient>
+ <linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+ <style>
+ .m{font-family:Consolas,'Courier New',monospace}.s{font-family:Arial,sans-serif}
+ .row{animation:in .7s ease both}@keyframes in{from{opacity:0}to{opacity:1}}
+ .r2{animation-delay:.2s}.r3{animation-delay:.4s}.r4{animation-delay:.6s}
+ .ring{stroke-dasharray:226;stroke-dashoffset:226;animation:ring 1.8s ease forwards .4s}
+ @keyframes ring{to{stroke-dashoffset:45}}
+ </style>
+</defs>
+<rect x="2" y="2" width="646" height="266" rx="22" fill="url(#bg)" stroke="url(#a)" stroke-width="2"/>
+<text class="s" x="28" y="42" fill="#f1f5f9" font-size="20" font-weight="700">📊 Rishi's GitHub Stats</text>
+<text class="m" x="28" y="67" fill="#64748b" font-size="11">@Rishi2004t • developer dashboard</text>
+
+<g class="m" font-size="14">
+ <g class="row" transform="translate(30 102)"><circle r="5" fill="#22d3ee"/><text x="18" y="5" fill="#94a3b8">Profile</text><text x="190" y="5" fill="#e2e8f0">Full Stack • ML • GenAI</text></g>
+ <g class="row r2" transform="translate(30 137)"><circle r="5" fill="#818cf8"/><text x="18" y="5" fill="#94a3b8">Primary Focus</text><text x="190" y="5" fill="#e2e8f0">Build • Learn • Solve</text></g>
+ <g class="row r3" transform="translate(30 172)"><circle r="5" fill="#d946ef"/><text x="18" y="5" fill="#94a3b8">Core</text><text x="190" y="5" fill="#e2e8f0">Java • Web • AI</text></g>
+ <g class="row r4" transform="translate(30 207)"><circle r="5" fill="#34d399"/><text x="18" y="5" fill="#94a3b8">Status</text><text x="190" y="5" fill="#34d399">Open to collaborate</text></g>
+</g>
+
+<g transform="translate(530 145)">
+ <circle r="53" fill="none" stroke="#1e293b" stroke-width="10"/>
+ <circle class="ring" r="36" fill="none" stroke="url(#a)" stroke-width="10" transform="rotate(-90)" pathLength="226"/>
+ <text class="s" text-anchor="middle" y="7" fill="#f1f5f9" font-size="30" font-weight="800">R</text>
+ <text class="m" text-anchor="middle" y="78" fill="#64748b" font-size="10">RISHI</text>
+</g>
+<text class="m" x="30" y="246" fill="#64748b" font-size="10">Custom local card • no third-party stats dependency</text>
+</svg>

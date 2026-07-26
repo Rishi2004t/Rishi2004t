@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset="1" stop-color="#160b2d"/></linearGradient>
+ <linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+ <style>.m{font-family:Consolas,'Courier New',monospace}.s{font-family:Arial,sans-serif}.bar{animation:g 1.3s ease both;transform-origin:left}@keyframes g{from{transform:scaleX(0)}to{transform:scaleX(1)}}</style>
+</defs>
+<rect x="2" y="2" width="476" height="266" rx="22" fill="url(#bg)" stroke="url(#a)" stroke-width="2"/>
+<text class="s" x="25" y="42" fill="#f1f5f9" font-size="20" font-weight="700">🧠 Tech Focus</text>
+<text class="m" x="25" y="66" fill="#64748b" font-size="11">Current developer stack</text>
+<g class="m" font-size="12">
+ <text x="25" y="102" fill="#e2e8f0">Java / DSA</text><rect x="135" y="91" width="290" height="10" rx="5" fill="#172033"/><rect class="bar" x="135" y="91" width="250" height="10" rx="5" fill="#22d3ee"/>
+ <text x="25" y="137" fill="#e2e8f0">Full Stack</text><rect x="135" y="126" width="290" height="10" rx="5" fill="#172033"/><rect class="bar" x="135" y="126" width="270" height="10" rx="5" fill="#818cf8"/>
+ <text x="25" y="172" fill="#e2e8f0">MongoDB / SQL</text><rect x="135" y="161" width="290" height="10" rx="5" fill="#172033"/><rect class="bar" x="135" y="161" width="225" height="10" rx="5" fill="#c084fc"/>
+ <text x="25" y="207" fill="#e2e8f0">ML / GenAI</text><rect x="135" y="196" width="290" height="10" rx="5" fill="#172033"/><rect class="bar" x="135" y="196" width="205" height="10" rx="5" fill="#d946ef"/>
+</g>
+<text class="m" x="25" y="242" fill="#64748b" font-size="10">Java • React • Node.js • MongoDB • Python • GenAI</text>
+</svg>

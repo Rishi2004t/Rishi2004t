@@ -1,214 +1,127 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rishi%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
----
-## Hi there 👋
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <img width="100%" alt="Rishi Dange — Full Stack, ML and GenAI Developer" src="./banner.svg?v=1">
+</picture>
 
-**Rishi2004t/Rishi2004t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Rishi Dange
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full Stack Developer • Machine Learning • GenAI • DSA**
 
-<h1 align="center">Hi 👋, I'm Rishi Dhanaji Dange</h1>
-<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast</h3>
+Building real-world software, learning intelligent systems, and improving through consistent problem solving.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MongoDB+Learner;DSA+Practitioner;Building+Real+Projects" />
-</p>
+</div>
 
 ---
 
-## 🧠 About Me
+## 🪪 Developer ID
 
-- 💻 I’m currently learning **Full Stack Development & MongoDB**
-- 📚 Practicing **Data Structures & Algorithms (Java / C++)**
-- 🚀 Building real-world projects to improve my skills
-- 🎯 Goal: Become a professional developer and crack top tech opportunities
-- ⚡ Fun fact: I love solving problems and exploring new technologies
-
----
-
+<div align="center">
+  <img src="./lanyard.svg?v=1" width="390" alt="Rishi Dange Developer ID"/>
+</div>
 
 ---
 
 ## 🚀 Tech Arsenal
 
-<p align="center">
+<div align="center">
 
-### 🌐 Frontend Universe
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" alt="Technology stack"/>
 
-### ⚙️ Backend Engine
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
 
-### 🗄️ Database Realm
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🧠 Programming Core
-<img src="https://skillicons.dev/icons?i=java,cpp" />
-
-### 🛠️ Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-</p>
----
+**Core focus:** Java & DSA • Full Stack Development • MongoDB & SQL • Machine Learning • GenAI • LangChain
 
 ---
 
-## 📊 Dev Activity Dashboard
+## 💼 Featured Projects
 
-<p align="center">
+| Project | What it does | Stack |
+|---|---|---|
+| **Developer_Rishi** | EdTech platform for notes, courses, roadmaps, mock tests and placement preparation. | Next.js • React • Node.js • MongoDB |
+| **Page Pulse API** | Production-style URL audit API with validation, caching, rate limiting, concurrency control and tests. | Node.js • TypeScript • Express |
+| **FocusVault** | Productivity-focused web project. | Full Stack |
+| **Portfolio** | Personal developer portfolio showcasing projects and skills. | Web Development |
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishi2004t&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2004t&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph (Live Activity)
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00F7FF&point=FFFFFF" />
-</p>
+> Replace/add repository links here after confirming the exact repository URLs you want featured.
 
 ---
 
-## 📊 Alternative Graph
+## 📊 Developer Dashboard
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&theme=tokyo-night" />
-</p>
+<div align="center">
+  <img src="./stats.svg?v=1" width="57%" alt="Rishi developer stats"/>
+  <img src="./langs.svg?v=1" width="42%" alt="Rishi technology focus"/>
+</div>
+
 ---
+
+## 🔥 Contribution Momentum
+
+<div align="center">
+  <img src="./streak.svg?v=1" width="92%" alt="Contribution momentum"/>
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi2004t&bg_color=07101f&color=67e8f9&line=818cf8&point=d946ef&area=true&hide_border=true" width="96%" alt="Rishi GitHub activity graph"/>
+
+</div>
+
+---
+
+## 🏆 Developer Achievements
+
+<div align="center">
+  <img src="./achievements.svg?v=1" width="96%" alt="Developer achievements"/>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Rishi2004t/Rishi2004t/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake.svg">
+</picture>
 
-## 🚗 Code & Drive
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
-</p>
-
-## 💼 Featured Projects
-
-### 🚀 Portfolio Website  
-🔹 A responsive personal portfolio showcasing my projects and skills  
-🛠️ Tech Stack: HTML, CSS, JavaScript  
-🔗 [View Project](https://github.com/Rishi2004t/portfolio-website)
+</div>
 
 ---
-
-### 🧠 AI Diet Planner  
-🔹 AI-powered system that generates personalized diet plans  
-🛠️ Tech Stack: Node.js, MongoDB, API  
-🔗 [View Project](https://github.com/Rishi2004t/ai-diet-planner)
-
-🔹 Built a responsive personal portfolio to showcase projects and skills
-
----
-
-### 📊 DSA Tracker  
-🔹 Track coding progress and solved problems efficiently  
-🛠️ Tech Stack: Java, Data Structures  
-🔗 [View Project](https://github.com/Rishi2004t/dsa-tracker)
-
----
-
-
----
-
-## 🏆 GitHub Achievements
-
-- 🥇 Active Developer  
-- 📈 Consistent Contributor  
-- 🚀 Project Builder  
-- 💻 Full Stack Learner
-- ---
-
----
-
-## 🚧 Currently Working On
-
-- 🔭 Building **Full Stack Projects**
-- 🌱 Learning **MongoDB & Backend Development**
-- 🧠 Improving **DSA Skills (Java/C++)**
-- 🚀 Exploring **DevOps & Cloud**
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishi2004t&layout=compact&theme=tokyonight&cache_seconds=10" />
-</p>
-
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishi2004t&show_icons=true&theme=tokyonight" />
-</p>
----
-## 💡 Fun Zone
-
-> ⚡ "Code. Debug. Repeat. Success is near."
-
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-----
+<div align="center">
 
-## 🐾 Dev Life
+<a href="https://github.com/Rishi2004t">
+  <img src="https://img.shields.io/badge/GitHub-Rishi2004t-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
-</p>
+<!-- Replace YOUR_LINKEDIN_USERNAME with your real LinkedIn username -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-<p align="center">
-🟢 Currently Coding...  
-☕ Coffee Level: ███████░░  
-🚀 Mode: Building Projects  
-</p>
+</div>
+
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-Learner-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
-</p>
-----
 
+<div align="center">
 
+### `CODE • LEARN • BUILD • REPEAT`
 
+*"Turning ideas into real-world solutions."*
+
+<img src="https://komarev.com/ghpvc/?username=Rishi2004t&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+</div>

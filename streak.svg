@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset="1" stop-color="#160b2d"/></linearGradient>
+ <linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+ <style>
+ .m{font-family:Consolas,'Courier New',monospace}.s{font-family:Arial,sans-serif}
+ .pulse{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.45}}
+ .dash{stroke-dasharray:7 8;animation:d 8s linear infinite}@keyframes d{to{stroke-dashoffset:-120}}
+ </style>
+</defs>
+<rect x="2" y="2" width="896" height="246" rx="22" fill="url(#bg)" stroke="url(#a)" stroke-width="2"/>
+<text class="s" x="34" y="43" fill="#f1f5f9" font-size="20" font-weight="700">🔥 Contribution Momentum</text>
+<text class="m" x="34" y="67" fill="#64748b" font-size="11">Consistency • learning • shipping</text>
+
+<line class="dash" x1="80" y1="142" x2="820" y2="142" stroke="#334155" stroke-width="2"/>
+<g class="m" text-anchor="middle">
+ <g transform="translate(150 142)"><circle r="27" fill="#0b1730" stroke="#22d3ee" stroke-width="3"/><circle r="7" fill="#22d3ee" class="pulse"/><text y="52" fill="#e2e8f0" font-size="12">LEARN</text></g>
+ <g transform="translate(350 142)"><circle r="27" fill="#0b1730" stroke="#818cf8" stroke-width="3"/><circle r="7" fill="#818cf8" class="pulse"/><text y="52" fill="#e2e8f0" font-size="12">BUILD</text></g>
+ <g transform="translate(550 142)"><circle r="27" fill="#0b1730" stroke="#c084fc" stroke-width="3"/><circle r="7" fill="#c084fc" class="pulse"/><text y="52" fill="#e2e8f0" font-size="12">COMMIT</text></g>
+ <g transform="translate(750 142)"><circle r="27" fill="#0b1730" stroke="#d946ef" stroke-width="3"/><circle r="7" fill="#d946ef" class="pulse"/><text y="52" fill="#e2e8f0" font-size="12">REPEAT</text></g>
+</g>
+<text class="m" x="450" y="226" text-anchor="middle" fill="#94a3b8" font-size="11">Real streak numbers can be connected later from GitHub activity.</text>
+</svg>
