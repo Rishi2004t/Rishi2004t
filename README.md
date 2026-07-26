@@ -87,15 +87,18 @@ Building real-world software, learning intelligent systems, and improving throug
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake.svg">
+    <img alt="Rishi Dange Contribution Snake"
+         src="https://raw.githubusercontent.com/Rishi2004t/Rishi2004t/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
