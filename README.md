@@ -7,11 +7,9 @@
 
 <br/>
 
-# Hi 👋, I'm Rishi Dange
-
-**Full Stack Developer • Machine Learning • GenAI • DSA**
-
-Building real-world software, learning intelligent systems, and improving through consistent problem solving.
+<p align="center">
+  <img src="./about-me.svg" width="100%" alt="About Rishi Dange" />
+</p>
 
 </div>
 
